@@ -10,7 +10,7 @@ The theme will then show up in your editor's settings, under `Text Editor` then 
 
 ## Screenshot
 
-![Preview](https://i.imgur.com/r8RXVEy.png)
+![Preview](https://i.imgur.com/OmBhQOJ.png)
 
 ## Other
 
