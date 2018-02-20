@@ -6,7 +6,7 @@ Simply copy `Dracula.tet` to the Godot editor theme directory:
 - On macOS: `~/Library/Application Support/Godot/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
 
-The theme will then show up in your editor's settings, under `Text Editor` then `Theme` (for Godot 3.0, for earlier I'm sure it's somewhere similar)
+The theme will then show up in your editor's settings, under `Text Editor` then `Theme` (for Godot 3.0 - for earlier versions I'm sure it's somewhere similar)
 
 ## Screenshot
 
