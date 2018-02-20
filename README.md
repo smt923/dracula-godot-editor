@@ -11,3 +11,7 @@ The theme will then show up in your editor's settings, under `Text Editor` then 
 ## Screenshot
 
 ![Preview](https://i.imgur.com/r8RXVEy.png)
+
+## Other
+
+I'm can't figure out how to color certain symbols and not others so some colors aren't exactly how the 'Dracula look' should be, and I maybe have miscolored some functions and types compared to the Dracula spec, but I like how it ended up and the colors seem to fit well, but feel free to make a PR if you spot any improvements to the theme
